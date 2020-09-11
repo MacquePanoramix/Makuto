@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "makuto",
+  "private_key_id": "c4c20fc11737a3d6f96b1778544e7e975da943c3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCojHkXsAForTlG\nazYPLKMNrwxvaNJ25ae2Ci6kSOB0qcPYRzEfC3hSkFuJS9M/YaJnErO9/jQxCU5E\n2z9nnPEk6rbKVecTpU1HUDJL8TleCYkhFdg80qTZ1dWII9vK7BgfoGnufZHntCcA\no8uqRB8OA58ymBACVD13PB5eQqWzKNmkGYqx31H9dbkgLefCI0pWm2kCdib7VpVD\nk2YrQyF8UaK9tMWJXPBaldBC3EHAKNbhObOF9Vnnz4iYO9cIg5LC5x2s7qUzjb3b\nwhqYAuSHnjL2TTQn5Xx0Ub9P+icGDN7Bj8+TI0NvxOR5h2Mlo0K0cdWM7/pULLRS\niRGMFQI7AgMBAAECggEAGQ4UsXg+UAoGtxiYhyXwBnM3P9fPCCdNyH+ip6pBBNFN\npc4OF8V+jpYbUqwHtubJG6sJ4XGIiaI5VSlbDLMlnQLFHGErrLMdwJRD0x/Z6B2L\nxHQjr7BHxYKw2irWcUeqXbKHZ2aZigjbjrqf5mt3oFTaf/dfKIbO7PVuCui7tVzc\nCOHTPZ5WbQ2Rk1boMUH8CKucJU+lkwL7SYBS5dU0u87HzuEwQhQar0GIAgpRywBh\nxHe2fZsn2GNk3kBixZrLvUz1MK+O6WwJMoK6re3rUGnx/rvivT3/gfJgasELOQr6\noYDAV1LZq9j+q6kj7frH4Qb9sLnJaoDbd8RTl4M8CQKBgQDuK1qisa7SyySUayzU\nUlhI2o2+bzNjpcOIt2PRYgRUzB0cq9m4d0ZeXPrOHewI6xvQZLL++J2OVPMVXqfK\nzfbov1VYXLM0igMExgBhHemE7AnMisWhk0b9AY/QzJ9+X734nt+0ClELNQsx5MzA\nFAyAg5BLlZ6KbMOBc7X+sjRn0wKBgQC1Ks0wcemAqYZsDG4TAe5Hs+uE5TVUV7XO\na1KqEjg6etStgzHxXN1N/POfVIXR50vIOc2/ZpapPI849H8trQV2K5SdBHaTONxh\nsqcqhMhgGAgvhGeGAf0bnfX5ON39dUPAswL0t1loq9Ln8BH/pUjyHg+bQWCl6ObN\nOKe9yCYi+QKBgBfHLkpV8P1MmL9Un+omunezkjk0Au5s60OoA4gw//uzUSi+o4L+\nLYFYSRXw+NK/HkzE8PXxvlEqfAZjJ99ghskf6RZkUuPo73o3hmwrv1es9SF9rVN/\nT7QMxt3yv+2vA1liCzV/Xi3/QrndfO+kUMc3210gd+6cAzzWX5IpGoBPAoGAdRY4\njvrQIuttiR9vdLFmwsixiq5ojR4yzjnmrywfUwxXr9x+xrNyBBlbiroh0std2wYg\nx3cSIEaXegPqviZ4xSrdXa2oxPWW2T2RdJVku1ZM1AkKrz1RzCuG8Y+jSVAkfcI0\nQtzM2C1Unbo2p7a3MmPjSkAyqoefwzq+jpVwsGECgYBrU1BS0jGeQpvZ/H5LdtfX\nbW/0vO+oqokOluprMGj/YG8m92mahDZWKzcO2wLKBotSzHO9uGgoplFgkQEuaZVg\nKRDJXpiTs3edXNQxhYCRyNXyF13L5Dc96gPhB8pJUnLxaAiQ1KBizAJRZa0w3pke\nqQ2F08mUxjELSzlPDzi4/Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "makuto-dev@makuto.iam.gserviceaccount.com",
+  "client_id": "105095848503914182161",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/makuto-dev%40makuto.iam.gserviceaccount.com"
+}
